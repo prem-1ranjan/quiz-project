@@ -1,14 +1,14 @@
-# 🚀 Quiz Application (Full Stack Project)
+#  Quiz Application (Full Stack Project)
 
 This is a full-stack Quiz Application built using:
 
-* 🎨 **Frontend**: HTML, CSS, JavaScript
-* ⚙️ **Backend**: Spring Boot (Java)
-* 🗄️ **Database**: MySQL
+*  **Frontend**: HTML, CSS, JavaScript
+*  **Backend**: Spring Boot (Java)
+*  **Database**: MySQL
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 quiz-project/
@@ -18,17 +18,17 @@ quiz-project/
 
 ---
 
-## ✨ Features
+##  Features
 
-* 🧠 Attempt quizzes
-* 📊 Instant result calculation
+*  Attempt quizzes
+*  Instant result calculation
 * 🏆 Top performers section
-* 🔗 Frontend connected with backend APIs
-* 💾 Data stored in MySQL
+*  Frontend connected with backend APIs
+*  Data stored in MySQL
 
 ---
 
-## 🛠️ Setup Instructions
+##  Setup Instructions
 
 ### 🔹 1. Clone the Repository
 
@@ -63,7 +63,7 @@ spring.datasource.password=your_password
 
 ---
 
-## 🗄️ Database Setup
+##  Database Setup
 
 * Create a database in MySQL:
 
@@ -75,7 +75,7 @@ CREATE DATABASE quizdb;
 
 ---
 
-## 🌐 API Endpoints (Example)
+##  API Endpoints (Example)
 
 * `GET /questions` → Fetch questions
 * `POST /submit` → Submit quiz
@@ -83,13 +83,13 @@ CREATE DATABASE quizdb;
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 (Add your project screenshots here)
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Login & Authentication
 * Timer-based quiz
@@ -98,7 +98,7 @@ CREATE DATABASE quizdb;
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Prem Ranjan**
 
