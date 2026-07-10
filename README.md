@@ -22,7 +22,7 @@ quiz-project/
 
 *  Attempt quizzes
 *  Instant result calculation
-* 🏆 Top performers section
+*  Top performers section
 *  Frontend connected with backend APIs
 *  Data stored in MySQL
 
